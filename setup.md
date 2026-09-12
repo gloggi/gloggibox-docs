@@ -7,6 +7,9 @@ Gloggibox + Gloggi Container Hosting Setup
 - Angabe, dass wir externen S3 Speicherplatz verwenden werden
 - Darauf warten, dass der peaknetworks Support die Applikation erstellt und sich via Mail meldet
 
+## Container Hosting bei peaknetworks
+- blabla
+
 ## S3 Speicher bei infomaniak
 - https://www.infomaniak.com/en/hosting/public-cloud/prices
 - Get started for free
