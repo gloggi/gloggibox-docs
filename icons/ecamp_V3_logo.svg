@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="ecamp_V3_logo.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.530705"
+     inkscape:cx="21.561889"
+     inkscape:cy="32.52645"
+     inkscape:window-width="2560"
+     inkscape:window-height="1355"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <title
+     id="title1">Logo eCamp v3</title>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo eCamp v3</dc:title>
+        <dc:date>2020-04-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Manuel Meister</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <path
+     id="path1"
+     style="fill:#ffffff"
+     inkscape:label="w"
+     d="M 15.199951 2.0998535 L 15.180176 2.1364746 L 15.180176 2.1298828 A 14.45 14.45 0 0 1 8.409668 3.7302246 C 6.4591722 7.957949 4.7641408 12.312871 1.7219238 15.892822 L 1.3000488 14.669678 C 1.3000488 14.669678 1.190293 14.579902 1.050293 14.649902 C 0.91029294 14.719902 0.8503418 14.849854 0.8503418 14.849854 L 0.84008789 14.830078 L 1.4699707 16.199707 C 1.4699707 16.199707 1.5699219 16.240215 1.6699219 16.220215 C 1.7599219 16.220215 1.800293 16.119873 1.800293 16.119873 L 1.7988281 16.116211 C 3.3536515 17.228965 3.5777059 18.763259 4.1572266 20.302734 L 3.909668 19.801758 L 3.9089355 19.801758 L 3.9089355 19.80249 L 3.9082031 19.80249 L 3.9074707 19.803223 C 3.9071299 19.803347 3.9056731 19.803858 3.9052734 19.803955 C 3.8769231 19.808397 3.7389648 19.76457 3.6496582 19.800293 C 3.5496582 19.840293 3.449707 20.000244 3.449707 20.000244 L 3.5002441 19.979736 L 4.3996582 21.580078 L 4.3989258 21.580078 L 4.3981934 21.580078 L 4.3981934 21.580811 L 4.3974609 21.580811 L 4.3974609 21.581543 L 4.3981934 21.581543 L 4.3981934 21.582275 C 4.4091309 21.595264 4.5128418 21.646611 4.6003418 21.620361 C 4.6649301 21.607444 4.7071086 21.561438 4.7299805 21.530273 C 4.7388938 21.519484 4.7481767 21.508108 4.7570801 21.497314 L 22.251709 19.013672 L 22.199707 19.199707 L 22.169678 19.209961 C 22.169678 19.209961 22.230078 19.299824 22.330078 19.319824 C 22.430078 19.339824 22.530029 19.27002 22.530029 19.27002 L 23.129883 17.600098 C 23.129883 17.600098 23.181276 17.395 23.0625 17.31665 C 22.909654 17.353615 22.699951 17.400146 22.699951 17.400146 L 22.283203 18.900146 C 18.777283 13.630927 16.988644 8.161535 15.199951 2.0998535 z M 23.0625 17.31665 C 23.144408 17.296842 23.210255 17.279062 23.218506 17.273438 L 23.219238 17.273438 L 23.219238 17.272705 L 23.218506 17.272705 L 23.218506 17.271973 L 23.217773 17.271973 C 23.208772 17.270416 23.154673 17.27798 23.030273 17.299805 C 23.042324 17.304323 23.052826 17.310269 23.0625 17.31665 z M 14.449951 6.5500488 C 15.079951 10.980049 17.309766 14.909873 20.009766 19.119873 L 16.732178 19.571045 L 16.740234 19.600342 L 11.015625 20.358398 L 7.0100098 20.909912 L 14.449951 6.5500488 z " />
+  <radialGradient
+     id="a"
+     cx="14.5"
+     cy="21.39"
+     r="21.55"
+     gradientTransform="matrix(1 -.1 .1 .6 -1.4 9.5)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#a39c95"
+       id="stop2" />
+    <stop
+       offset=".4"
+       stop-color="#c4beb5"
+       id="stop3" />
+    <stop
+       offset=".6"
+       stop-color="#ccc6bd"
+       id="stop4" />
+  </radialGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1=".4"
+     y1="24"
+     x2="1"
+     y2="24"
+     gradientTransform="matrix(.2 15.6 -33.3 .35 811.8 -4.2)">
+    <stop
+       offset="0"
+       stop-color="#3d1c10"
+       id="stop5" />
+    <stop
+       offset=".8"
+       stop-color="#654031"
+       id="stop6" />
+    <stop
+       offset="1"
+       stop-color="#7c5443"
+       id="stop7" />
+  </linearGradient>
+  <radialGradient
+     id="d"
+     cx="23"
+     cy="12"
+     r="9.6"
+     gradientTransform="matrix(-.9 .4 -.6 -1.2 50 16)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".8"
+       stop-color="#e8decd"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#a8a39c"
+       id="stop9" />
+  </radialGradient>
+  <radialGradient
+     id="e"
+     cx="-.2"
+     cy="24"
+     r="1"
+     gradientTransform="matrix(13 7.6 3.6 -6.1 -71 157)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#ffb48a"
+       id="stop10" />
+    <stop
+       offset=".6"
+       stop-color="#ff9768"
+       id="stop11" />
+    <stop
+       offset="1"
+       stop-color="#ff7e4a"
+       id="stop12" />
+  </radialGradient>
+  <radialGradient
+     id="f"
+     cx=".3"
+     cy="24"
+     r=".4"
+     gradientTransform="matrix(7.3 3.3 31 -69 -751 1705)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".8"
+       stop-color="#faf1df"
+       id="stop13" />
+    <stop
+       offset="1"
+       stop-color="#e6ded4"
+       id="stop14" />
+  </radialGradient>
+</svg>
