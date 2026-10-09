@@ -48,5 +48,8 @@ Peaknetworks hat einen shared Euro-Office Server, den man einfach verbinden kann
 - Administration settings -> Nextcloud Office
   - Nextcloud Office address: https://onlyoffice-ch.peaknetworks.cloud/
   - Secret key: Wird von peaknetworks Support auf Anfrage bereitgestellt
-  - Formate aktivieren: doc, docx, dot, dotx, odt, csv, ods, tsv, xls, xlsx, xlt, xltx, odp, otp, ppt, pptx, docxf, oform, pdf, vsdx
+  - Allgemeine Einstellungen: Nur "Nextcloud Office Vorschau generiren", "Metadaten für jede version behalten" und "Hintergrund Verbindungsprüfung" aktivieren
+  - Formate aktivieren: doc, docx, dot, dotx, odt, csv, ods, tsv, xls, xlsx, xlt, xltx, odp, otp, ppt, pptx, docxf, oform, vsdx
   - "Open the file for editing": rtf, txt, csv
+  - Editor-Einstellungen: Force save eingeschalten sonst nichts
+  - Sicherheit: Plugins deaktivieren
