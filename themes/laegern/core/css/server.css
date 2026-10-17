@@ -110,4 +110,10 @@ button.primary:focus,
 	width: auto!important;
 }
 
-
+#body-user:has(#content.app-eurooffice) #header {
+	display: none;
+}
+#body-user #content.app-eurooffice #app > iframe {
+	top: 0;
+	height: 100dvh;
+}
