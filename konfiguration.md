@@ -28,11 +28,11 @@
     occ="/opt/peak/php85/bin/php /storage/web/<user>/web/nextcloud/occ"
     $occ maintenance:update:htaccess
 - Hitobito Login Base-URL, Client-ID & Client-Secret ausfüllen und Login-Button Text auf "Login mit [Deinen Hitobito Name]"
-- Hitobito Login optionen Aktivieren:
+- Hitobito Login optionen Aktivieren wenn man die rollen konfiguriert hat:
     - Automaticlly remove groups fram user
     - Block users without mapped group/role match
     - Enable event mapping (needs event_participations scope)
-    - Use hitobito as default login
+    - Use hitobito as default login (für normales login: https://<your-nextcloud-instance-url>/login?direct=1)
 - Hitobito Login Group mapping (& Event mapping) eingeben welche man braucht
 - Skeleton dateien mit diesem command deaktivieren:
     $occ config:system:set skeletondirectory –value=""
