@@ -23,3 +23,11 @@ use the `laegern` Theme and so on.
   ];
   ```
 - Give it the same permissions as `config.php` (`chmod 640 theming.config.php`).
+
+## Adding a new domain
+
+1. Ask peaknetworks support to add the domain.
+2. Add it to the trusted domains: `$occ config:system:set trusted_domains <next free index> --value=<new-nextcloud-url>`
+   (check the existing entries with `$occ config:system:get trusted_domains`).
+3. Add a theme to the `themes` directory and map the domain to it in `$themes` in `config/theming.config.php`.
+4. In hitobito, ask PBS to add `https://<new-nextcloud-url>/apps/hitobitologin/login/oauth` as an additional redirect URI of the OAuth application.

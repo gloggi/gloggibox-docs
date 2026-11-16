@@ -19,7 +19,7 @@
     - Nextcloud Office (eurooffice)
 
 # Apps konfigurieren
-- Hitobito Login auf der Hitobito instanz redirect URLs als https://<your-nextcloud-instance-url>/apps/hitobitologin/login/oauth ainrichten
+- Hitobito Login auf der Hitobito instanz redirect URLs als https://<your-nextcloud-instance-url>/apps/hitobitologin/login/oauth einrichten (pro Domain eine redirect URL)
 - Hitobito Login braucht die "with-Roles" (Optional "event-participations") Scopes die freigegeben sind auf der Hitobito instanz
 - Hitobito Login das es richtig funktioniert muss man noch folgendes machen;
     /index.php aus allen URLs entfernen (nötig bevor die Redirect URLs fürs hitobito Login Plugin funktionieren)
@@ -27,6 +27,11 @@
     ~/web/nextcloud/config/config.php bearbeiten und Zeile einfügen: `'htaccess.RewriteBase' => '/',`
     occ="/opt/peak/php85/bin/php /storage/web/<user>/web/nextcloud/occ"
     $occ maintenance:update:htaccess
+- HTTPS erzwingen:
+    ```
+    $occ config:system:set overwriteprotocol --value=https
+    $occ config:system:set overwrite.cli.url --value=https://box.gloggi.ch
+    ```
 - Hitobito Login Base-URL, Client-ID & Client-Secret ausfüllen und Login-Button Text auf "Login mit [Deinen Hitobito Name]"
 - Hitobito Login optionen Aktivieren wenn man die rollen konfiguriert hat:
     - Automaticlly remove groups fram user
